@@ -1,0 +1,44 @@
+22220 – Techniciens/techniciennes de réseau informatique et Web
+Les techniciens de réseau informatique établissent et exploitent des réseaux locaux d'entreprise ou des réseaux étendus (RLE et RE), des réseaux d'ordinateurs central, du matériel, des logiciels et équipements informatiques liés, en assurent l'entretien et en coordonnent l'utilisation. Les techniciens Web mettent en place des sites Web internet, extranet et intranet et du matériel et des logiciels de serveurs Web, et en assurent l'entretien. Ils supervisent et optimisent la connectivité de réseau et la performance du réseau. Ils travaillent dans les services informatiques des secteurs privé et public. Les techniciens de réseau informatique et Web qui sont superviseurs sont inclus dans ce groupe.
+
+
+Exemples d'appellations d'emploi
+Administrateur/administratrice de réseau local
+Administrateur/administratrice de système - réseau
+Administrateur/administratrice réseau
+Exploitant/exploitante de centre de données
+Technicien/technicienne de réseau informatique
+Technicien/technicienne de réseau local
+Technicien/technicienne de site Web
+Technicien/technicienne en soutien de réseau
+Technicien/technicienne Web
+Fonctions principales
+Ce groupe exerce une partie ou l'ensemble des fonctions suivantes :
+Les opérateurs en informatique et les opérateurs de réseau
+assurer l'entretien, rechercher les causes des pannes, réparer et gérer les réseaux locaux d'entreprise (RLE), de réseaux étendus (RE), de réseaux d'ordinateurs centraux et d'équipements de périphériques, de postes de travail informatisés et de connexions Internet;
+mettre à l'essai et installer le matériel informatique, les logiciels de réseaux, les logiciels de systèmes d'exploitation et les applications logicielles;
+utiliser les pupitres maîtres pour contrôler le rendement des systèmes d'ordinateurs et des réseaux et pour coordonner l'accès et l'utilisation des réseaux d'ordinateurs;
+fournir des services de résolution de problèmes aux utilisateurs de réseaux;
+effectuer des démarrages et mises hors service de routine et tenir les registres de contrôle;
+effectuer des opérations de sauvegarde et de restauration de données;
+effectuer des tests et des contrôles de sécurité et de qualité;
+effectuer la scénarisation de l'interpréteur de commandes et d'autres tâches de scénarisation de base;
+superviser, s'il y a lieu, d'autres travailleurs de ce groupe.
+Les techniciens Web
+installer, entretenir et rechercher les causes de pannes, mettre à niveau le matériel et les logiciels de serveurs Web;
+implanter des logiciels de contrôle de trafic et de sécurité de réseaux et optimiser le rendement du serveur;
+contrôler et surveiller l'utilisation du courrier électronique, de la navigation sur le Web et des logiciels installés;
+répondre aux demandes d’aide et d’information des concepteurs et visiteurs des sites Web.
+Conditions d’accès à la profession
+Un diplôme d'études collégiales ou tout autre programme en informatique, en administration de réseaux, en technologie Web ou en un autre domaine lié, est habituellement exigé.
+Une certification ou une formation fournie par un vendeur de logiciels peut être exigée par certains employeurs.
+Un permis d'exercice d'un organisme de réglementation est exigé en Saskatchewan.
+Renseignements supplémentaires
+L'expérience permet d'accéder à des postes en programmation informatique, en développement de médias interactifs, en développement Web ou en analyse de systèmes.
+Exclusions
+Directeurs/directrices de la publicité, du marketing et des relations publiques (10022)
+Ingénieurs informaticiens/ingénieures informaticiennes (sauf ingénieurs/ingénieures et concepteurs/conceptrices en logiciel) (21311)
+Développeurs/développeuses et programmeurs/programmeuses de systèmes informatiques (21230)
+Évaluateurs/évaluatrices de systèmes informatiques (22222)
+Agents/agentes de soutien aux utilisateurs (22221)
+Concepteurs/conceptrices Web (21233)

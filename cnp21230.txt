@@ -1,0 +1,34 @@
+21230 – Développeurs/développeuses et programmeurs/programmeuses de systèmes informatiques
+Les développeurs et les programmeurs de systèmes informatiques écrivent, modifient, intègrent et mettent à l'essai le code informatique pour des applications logicielles, des applications de traitement de données, des logiciels de systèmes d'exploitation et des logiciels de communication. Ils travaillent dans des sociétés de développement de logiciels pour ordinateurs, des firmes d'experts-conseils en technologies de l'information ou dans les services informatiques des secteurs privé et public.
+
+
+Exemples d'appellations d'emploi
+Programmeur analyste/programmeuse analyste
+Programmeur scientifique/programmeuse scientifique
+Programmeur/programmeuse
+Programmeur/programmeuse de systèmes
+Programmeur/programmeuse de systèmes d'exploitation
+Fonctions principales
+Ce groupe exerce une partie ou l'ensemble des fonctions suivantes :
+écrire, modifier, intégrer et mettre à l'essai le code des logiciels;
+assurer la mise à jour des programmes informatiques existants en effectuant les modifications de la manière spécifiée;
+cerner et communiquer les problèmes techniques, procédures et solutions;
+préparer des rapports, des manuels et d'autres documents sur l'état, l'exploitation et l'entretien des logiciels;
+prêter assistance dans la collecte et la documentation des besoins des utilisateurs;
+prêter assistance dans le développement des spécifications logiques et techniques;
+mettre sur pied et diriger, s'il y a lieu, une équipe de programmeurs;
+rechercher et évaluer, s'il y a lieu, un grand nombre de produits logiciels.
+Conditions d’accès à la profession
+Un diplôme de premier cycle ou un diplôme d'études collégiales en informatique, génie informatique ou dans une autre discipline comportant une formation pertinente en programmation est habituellement exigé.
+Une spécialisation en programmation d'applications scientifiques et en ingénierie nécessite des études postsecondaires ou une expérience spécifique.
+Renseignements supplémentaires
+L'expérience permet d'accéder à des postes d'analystes en informatique.
+Exclusions
+Techniciens/techniciennes de réseau informatique et Web (22220)
+Analystes de bases de données et administrateurs/administratrices de données (21223)
+Directeur/directrice des affaires électroniques (voir 10022 Directeurs/directrices de la publicité, du marketing et des relations publiques)
+Spécialistes en informatique (21222)
+Évaluateurs/évaluatrices de systèmes informatiques (22222)
+Ingénieurs/ingénieures et concepteurs/conceptrices en logiciel (21231)
+Concepteurs/conceptrices Web (21233)
+Développeurs/développeuses et programmeurs/programmeuses Web (21234)

@@ -1,0 +1,38 @@
+21232 – Développeurs/développeuses et programmeurs/programmeuses de logiciels
+Les développeurs et les programmeurs de logiciels conçoivent, écrivent et testent les codes des nouveaux systèmes et logiciels pour en assurer l'efficacité. Ils créent les bases des systèmes opérationnels et exécutent des programmes de diagnostic pour en certifier l'efficacité. Ils travaillent dans des sociétés de développement de logiciels pour ordinateurs, des firmes d'experts-conseils en technologies de l'information ou dans les services informatiques des secteurs privé et public.
+
+
+Exemples d'appellations d'emploi
+Chef de projet de développement de logiciel
+Développeur/développeuse de jeux d'ordinateur
+Développeur/développeuse de logiciels
+Développeur/développeuse de logiciels d'affaires électroniques
+Développeur/développeuse de médias interactifs
+Développeur/développeuse de multimédias
+Programmeur/programmeuse d'applications informatiques
+Programmeur/programmeuse de logiciels
+Fonctions principales
+Ce groupe exerce une partie ou l'ensemble des fonctions suivantes :
+concevoir, écrire, lire, tester et corriger les codes d'un nouveau logiciel;
+analyser les informations pour recommander et planifier l'installation de nouveaux systèmes ou la modification d'un système existant;
+évaluer les relations entre les programmes, par exemple si un changement envisagé dans une partie d'un programme entrainerait des résultats non désirés dans une partie connexe;
+programmer des logiciels d'animation en fonction de spécifications techniques prédéfinies pour des jeux vidéo interactifs et des applications Internet et mobiles;
+écrire, modifier, intégrer et mettre à l'essai le code des logiciels destinés au commerce électronique et applications Internet et mobiles;
+développer, mettre en œuvre et maintenir des fonctionnalités de jeu qui s'intègrent de manière efficace aux logiciels existants;
+rédiger la documentation pour les nouveaux logiciels et les mises à jour.
+Conditions d’accès à la profession
+Un diplôme de premier cycle en informatique, en génie logiciel ou dans une autre discipline comportant une formation pertinente en programmation ou un diplôme d'études collégiales en informatique est habituellement exigé.
+Une expérience en programmation informatique est habituellement exigée.
+Renseignements supplémentaires
+L'expérience permet d'accéder à des postes d'ingénieurs en logiciel.
+Exclusions
+Techniciens/techniciennes de réseau informatique et Web (22220)
+Analystes de bases de données et administrateurs/administratrices de données (21223)
+Directeur/directrice des affaires électroniques (voir 10022 Directeurs/directrices de la publicité, du marketing et des relations publiques)
+Designers graphiques et illustrateurs/illustratrices (52120)
+Spécialistes en informatique (21222)
+Évaluateurs/évaluatrices de systèmes informatiques (22222)
+Ingénieur/ingénieure en applications informatiques (voir 21231 Ingénieurs/ingénieures et concepteurs/conceptrices en logiciel)
+Développeurs/développeuses et programmeurs/programmeuses de systèmes informatiques (21230)
+Concepteurs/conceptrices Web (21233)
+Développeurs/développeuses et programmeurs/programmeuses Web (21234)
